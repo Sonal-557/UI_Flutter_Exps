@@ -25,4 +25,8 @@ flutter run -t lib/main_b.dart -d chrome # Provider example
 
 ### Screenshot
 - Show counter before and after increment for both examples.
+a) `main_a.dart`: Counter implemented with StatefulWidget and setState.
+<img width="1447" height="861" alt="image" src="https://github.com/user-attachments/assets/3a87db01-a72a-44bf-8839-248eb16ade37" />
+b) `main_b.dart`: `ChangeNotifier` + `Provider` to manage counter state globally for the widget tree.
+<img width="1447" height="860" alt="image" src="https://github.com/user-attachments/assets/5de9c7e4-85f3-4b53-b9e3-442d990dc304" />
 
