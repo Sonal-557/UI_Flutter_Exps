@@ -22,4 +22,9 @@ flutter run -t lib/main_b.dart -d chrome
 
 ### Screenshot
 - Capture ListView of cards and the themed button/text.
+- a) `main_a.dart`: `ColoredCard` custom widget used in a list.  
+
+<img width="1449" height="756" alt="image" src="https://github.com/user-attachments/assets/6130fb05-3424-4790-a3ad-fed19d39c7ff" />
+b) `main_b.dart`: `ThemeData` with `elevatedButtonTheme` and text style; widgets inherit theme.
+<img width="1438" height="855" alt="image" src="https://github.com/user-attachments/assets/434b24c3-62c7-4876-9616-fc4abe0276e2" />
 
