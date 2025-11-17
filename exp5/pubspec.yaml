@@ -1,0 +1,18 @@
+name: exp5
+description: Experiment 5 - Stateful & Stateless Widgets + Provider
+version: 1.0.0+1
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.5   # For 5b state management
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
