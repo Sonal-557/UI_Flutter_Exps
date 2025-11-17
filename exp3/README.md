@@ -23,5 +23,9 @@ flutter run -t lib/main_b.dart -d chrome
 - Resizable container and breakpoint-based layout changes when resizing the browser.
 
 ### Screenshot
-- Take screenshots for mobile, tablet, and desktop widths.
+a) `main_a.dart` uses MediaQuery to change container width for mobile/tablet/desktop. 
+<img width="1455" height="864" alt="image" src="https://github.com/user-attachments/assets/a673612b-bb3d-4612-a06d-bef42e11a9ba" />
+b) `main_b.dart` demonstrates different layouts per breakpoint (<600, 600–1200, >=1200).
+<img width="1445" height="862" alt="image" src="https://github.com/user-attachments/assets/be470bbc-f989-4cf9-bdcd-0954233fb30a" />
+
 
