@@ -22,6 +22,7 @@ flutter run -d chrome
 - App shows "Hello, Flutter!", Flutter logo (network), styled Container, Row icons, Stack elements.
 
 ### Screenshot
-![alt text](image.png)
+<img width="1448" height="864" alt="image" src="https://github.com/user-attachments/assets/5e1aa0af-bbb9-4277-a3fe-a7efd17bf778" />
+
 
 
