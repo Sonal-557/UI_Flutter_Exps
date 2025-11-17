@@ -19,8 +19,11 @@ flutter run -t lib/main_a.dart -d chrome
 flutter run -t lib/main_b.dart -d chrome
 
 ### Output
-- 9a: List of posts with title & body.  
+- 9a: List of posts with title & body.
+- <img width="1449" height="864" alt="image" src="https://github.com/user-attachments/assets/76795385-5551-4429-ba42-533095e07122" />
+
 - 9b: Grid of cards with title/body (truncated).
+<img width="1445" height="863" alt="image" src="https://github.com/user-attachments/assets/814626ca-3b3d-42d1-97df-41aa13b80d24" />
 
 ### Screenshot
 - Capture loaded ListView / GridView with data items.
