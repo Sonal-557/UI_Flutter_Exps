@@ -19,6 +19,7 @@ b) A small Dart program (`hello_dart.dart`) prints messages and does simple arit
 ### Output
 - Console prints greeting, sum, and conditional message.
 
-### Screenshot
-![alt text](image.png)
+Hello, Sonal! Welcome to Dart Programming.
+Sum of a and b is: 30
+a is smaller than b
 
